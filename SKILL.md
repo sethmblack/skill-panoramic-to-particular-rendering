@@ -3,8 +3,8 @@ name: panoramic-to-particular-rendering
 description: Structure analysis or narrative to move from vast context (historical, social, institutional forces) to intimate detail (individual thought, physical gesture) in a single coherent sweep, following ...
 license: MIT
 metadata:
+  version: 1.0.4629
   author: sethmblack
-  version: 1.0.4628
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - compression
